@@ -1,61 +1,32 @@
 AdLint - not used, old for ANSI C89 / ISO C90 and partly ISO C99.
 Astree - NOT FREE. There is a trial for 30 days after you email/fax them a license agreement, set a date and time for a Web-based training via cisco webex and a regular phone call that takes (I presume) painful 90 minutes. ***DROP MIC***
 Axivion Bauhaus Suite – A static code analysis tool suite that performs various analyses such as architecture checking, interface analyses, MISRA checking, and clone detection.
-<<<<<<< HEAD:static_analysis/staticAnalyzers.txt
-BLAST – so far not used, maybe later, analyzis only one .c file, getting parse errors
+BLAST – not used, maybe later, analyzing only one .c file, getting parse errors
 Cppcheck – Open-source tool that checks for several types of errors, including use of STL. ***DONE***
 cpplint – An open-source tool that checks for compliance with Google's style guide for C++ coding.
-Clang – An open-source compiler that includes a static analyzer.
+Clang – found 3 bugs.
 Coccinelle – An open-source source code pattern matching and transformation. *** THIS IS `sed` ON STEROIDS, NOT AN ANALYZER ***
 Coverity – A static analysis tool for C/C++.
-Cppdepend – Simplifies managing a complex C/C++ code base by analyzing and visualizing code dependencies, by defining design rules, by doing impact analysis, and comparing different versions of the code.
+Cppdepend – not used, based on clang, looks good but commercial, unable to start trial version (free for one month).
 ECLAIR – COMMERCIAL :( *** "DONE" ***
 Eclipse (software) – An open-source IDE that includes a static code analyzer.
-Flawfinder – an open source tool that examines C/C++ source code and reports possible security weaknesses (“flaws”) sorted by risk level.
-Fluctuat – Abstract interpreter for the validation of numerical properties of programs. -  An academic version of Fluctuat is available upon request. :( ***DONE***
-Frama-C – An open-source static analysis framework for C.
-Goanna – A software analysis tool for C/C++.
-GrammaTech CodeSonar – A static program analysis tool for C/C++, see above. *** COMMERCIAL, DONE ***
-IKOS – an open-source static analysis of C and C++ code.
-Infer – Developed by an engineering team at Facebook with open-source contributors. Targets null pointer and other memory problems. Available as open source on github.
-Klocwork Static Code Analysis – A static analysis tool for C/C++. *** COMMERCIAL, DONE ***
-Lint – The original, from 1978, static code analyzer for C.
-LDRA Testbed – A software analysis and testing tool suite for C/C++.
-OCLint – Clang based, only runs on Linux and Mac OS X. *** DONE ***
-Parasoft C/C++test – A C/C++ tool that does static analysis, unit testing, code review, and runtime error detection; plugins available for Visual Studio and Eclipse-based IDEs.
-PC-Lint – A software analysis tool for C with partial support for C++2011.
-Polyspace – Uses abstract interpretation to detect and prove the absence of run time errors, Dead Code in source code as well as used to check all MISRA (2004, 2012) rules (directives, non directives). *** COMMERCIAL , DONE ***
-PRQA QA·C and QA·C++ – Deep static analysis of C/C++ for quality assurance and guideline/coding standard enforcement with MISRA support.
-SLAM project – a project of Microsoft Research for checking that software satisfies critical behavioral properties of the interfaces it uses.
-Sparse – An open-source tool designed to find faults in the Linux kernel. *** THIS CANT OPEN FILES ????, DONE***
-=======
-BLAST – not used, maybe later, analyzing only one .c file, getting parse errors
-Cppcheck – Open-source tool that checks for several types of errors, including use of STL.
-cpplint – An open-source tool that checks for compliance with Google's style guide for C++ coding.
-Clang – found 3 bugs.
-Coccinelle – An open-source source code pattern matching and transformation.
-Coverity – A static analysis tool for C/C++.
-Cppdepend – not used, based on clang, looks good but commercial, unable to start trial version (free for one month).
-ECLAIR – A platform for the automatic analysis, verification, testing and transformation of C and C++ programs.
-Eclipse (software) – An open-source IDE that includes a static code analyzer.
 Flawfinder – used.
-Fluctuat – Abstract interpreter for the validation of numerical properties of programs.
+Fluctuat – Abstract interpreter for the validation of numerical properties of programs. *** An academic version of Fluctuat is available upon request. :( DONE***
 Frama-C – An open-source static analysis framework for C.
 Goanna – not used, nowadays available as plug-in for eclipse and VS.
-GrammaTech CodeSonar – A static program analysis tool for C/C++, see above.
+GrammaTech CodeSonar – A static program analysis tool for C/C++, see above. *** COMMERCIAL, DONE ***
 IKOS – an open-source static analysis of C and C++ code.
 Iinfer – not used, unable to install, maybe problem with opam dependencies.
-Klocwork Static Code Analysis – A static analysis tool for C/C++.
+Klocwork Static Code Analysis – A static analysis tool for C/C++. *** COMMERCIAL, DONE ***
 Lint – The original, from 1978, static code analyzer for C.
 LDRA Testbed – not used, commercial.
-OCLint – Clang based, only runs on Linux and Mac OS X.
+OCLint – Clang based, only runs on Linux and Mac OS X. *** DONE ***
 Parasoft C/C++test – A C/C++ tool that does static analysis, unit testing, code review, and runtime error detection; plugins available for Visual Studio and Eclipse-based IDEs.
 PC-Lint – not used, commercial.
-Polyspace – Uses abstract interpretation to detect and prove the absence of run time errors, Dead Code in source code as well as used to check all MISRA (2004, 2012) rules (directives, non directives).
+Polyspace – Uses abstract interpretation to detect and prove the absence of run time errors etc. *** COMMERCIAL , DONE ***
 PRQA QA·C and QA·C++ – Deep static analysis of C/C++ for quality assurance and guideline/coding standard enforcement with MISRA support.
 SLAM project – not used, commercial.
-Sparse – An open-source tool designed to find faults in the Linux kernel.
->>>>>>> 773c67ddbff1a4a0f6c9ee1eaa739d873a8dddc8:static_analyzis/staticAnalyzers.txt
+Sparse – An open-source tool designed to find faults in the Linux kernel. *** THIS CANT OPEN FILES ????, DONE***
 Splint – An open-source evolved version of Lint, for C.
 Visual Studio – An IDE that provides static code analysis for C/C++ both in the editor environment and from the compiler command line.
 
