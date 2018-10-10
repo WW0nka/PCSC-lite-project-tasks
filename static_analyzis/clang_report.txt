@@ -1,0 +1,13 @@
+src/simclist.c:800:67: warning: Access to field 'next' results in a dereference
+      of a null pointer (loaded from field 'mid')
+  ...(cnt = 0; cnt < (unsigned int)err; cnt++) dest->mid = dest->mid->next;
+                                                           ^~~~~~~~~~~~~~~
+src/simclist.c:803:67: warning: Access to field 'prev' results in a dereference
+      of a null pointer (loaded from field 'mid')
+  ...(cnt = 0; cnt < (unsigned int)err; cnt++) dest->mid = dest->mid->prev;
+                                                           ^~~~~~~~~~~~~~~
+src/simclist.c:1355:22: warning: Potential leak of memory pointed to by 'buf'
+        totreadlen = header.numels * header.elemlen;
+                     ^~~~~~
+3 warnings generated.
+
