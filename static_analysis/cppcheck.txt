@@ -1,0 +1,86 @@
+[UnitaryTests/SCardCancel.c:41] -> [UnitaryTests/SCardCancel.c:56]: (style) Variable 'ret' is reassigned a value before the old one has been used.
+[src/auth.c:74]: (information) Skipping configuration 'HAVE_POLKIT;SO_PEERCRED' since the value of 'SO_PEERCRED' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.
+[src/eventhandler.c:118]: (style) The scope of the variable 'filedes' can be reduced.
+[src/hotplug_libudev.c:599]: (style) The scope of the variable 'r' can be reduced.
+[src/hotplug_libudev.c:231]: (error) Common realloc mistake: 'driverTracker' nulled but not freed upon failure
+[src/hotplug_libusb.c:237]: (error) Common realloc mistake: 'driverTracker' nulled but not freed upon failure
+[src/ifdwrapper.c:73] -> [src/ifdwrapper.c:76]: (style) Variable 'IFDH_set_protocol_parameters' is reassigned a value before the old one has been used.
+[src/ifdwrapper.c:169] -> [src/ifdwrapper.c:171]: (style) Variable 'IFDH_close_channel' is reassigned a value before the old one has been used.
+[src/ifdwrapper.c:210] -> [src/ifdwrapper.c:212]: (style) Variable 'IFDH_set_capabilities' is reassigned a value before the old one has been used.
+[src/ifdwrapper.c:241] -> [src/ifdwrapper.c:243]: (style) Variable 'IFDH_get_capabilities' is reassigned a value before the old one has been used.
+[src/ifdwrapper.c:340] -> [src/ifdwrapper.c:342]: (style) Variable 'IFDH_icc_presence' is reassigned a value before the old one has been used.
+[src/ifdwrapper.c:509] -> [src/ifdwrapper.c:517]: (style) Variable 'IFDH_transmit_to_icc' is reassigned a value before the old one has been used.
+[src/pcscdaemon.c]: (information) Too many #ifdef configurations - cppcheck only checks 12 of 14 configurations. Use --force to check all configurations.
+[src/pcscdaemon.c:108]: (style) The scope of the variable 'rsp' can be reduced.
+[src/readerfactory.c:1109] -> [src/readerfactory.c:1112]: (style) Variable 'rContext->slot' is reassigned a value before the old one has been used.
+[src/readerfactory.c:1257]: (style) The scope of the variable 'currentHandle' can be reduced.
+[src/readerfactory.c:214]: (warning) Obsolete function 'alloca' called. In C99 and later it is recommended to use a variable length array instead.
+[src/readerfactory.c:181]: (warning) Obsolete function 'alloca' called. In C99 and later it is recommended to use a variable length array instead.
+[src/simclist.c:1138]: (style) The scope of the variable 'ser_buf' can be reduced.
+[src/simclist.c:1350]: (error) Memory leak: buf
+[src/spy/libpcscspy.c:172] -> [src/spy/libpcscspy.c:173]: (style) Variable 'r' is reassigned a value before the old one has been used.
+[src/spy/libpcscspy.c:173] -> [src/spy/libpcscspy.c:174]: (style) Variable 'r' is reassigned a value before the old one has been used.
+[src/spy/libpcscspy.c:201] -> [src/spy/libpcscspy.c:202]: (style) Variable 'r' is reassigned a value before the old one has been used.
+[src/spy/libpcscspy.c:202] -> [src/spy/libpcscspy.c:203]: (style) Variable 'r' is reassigned a value before the old one has been used.
+[src/testpcsc.c:407]: (warning) %d in format string (no. 1) requires 'int' but the argument type is 'unsigned int'.
+[src/utils.c:162]: (style) Clarify calculation precedence for '&' and '?'.
+[src/utils/formaticc.c:94]: (warning) sscanf() without field width limits can crash with huge input data.
+[src/utils/formaticc.c:98]: (warning) sscanf() without field width limits can crash with huge input data.
+[src/winscard_clnt.c:3344]: (style) The scope of the variable 'currentChannelMap' can be reduced.
+[src/winscard_msg.c:392]: (information) Skipping configuration 'MSG_NOSIGNAL' since the value of 'MSG_NOSIGNAL' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.
+[src/debuglog.c:341]: (style) The function 'debug_msg' is never used.
+[src/debuglog.c:360]: (style) The function 'debug_xxd' is never used.
+[src/simclist.c:370]: (style) The function 'list_attributes_hash_computer' is never used.
+[src/simclist.c:378]: (style) The function 'list_attributes_serializer' is never used.
+[src/simclist.c:386]: (style) The function 'list_attributes_unserializer' is never used.
+[src/simclist.c:1491]: (style) The function 'list_comparator_double' is never used.
+[src/simclist.c:1490]: (style) The function 'list_comparator_float' is never used.
+[src/simclist.c:1481]: (style) The function 'list_comparator_int16_t' is never used.
+[src/simclist.c:1483]: (style) The function 'list_comparator_int64_t' is never used.
+[src/simclist.c:1480]: (style) The function 'list_comparator_int8_t' is never used.
+[src/simclist.c:1493]: (style) The function 'list_comparator_string' is never used.
+[src/simclist.c:1486]: (style) The function 'list_comparator_uint16_t' is never used.
+[src/simclist.c:1487]: (style) The function 'list_comparator_uint32_t' is never used.
+[src/simclist.c:1488]: (style) The function 'list_comparator_uint64_t' is never used.
+[src/simclist.c:1485]: (style) The function 'list_comparator_uint8_t' is never used.
+[src/simclist.c:749]: (style) The function 'list_concat' is never used.
+[src/simclist.c:745]: (style) The function 'list_contains' is never used.
+[src/simclist.c:588]: (style) The function 'list_delete_range' is never used.
+[src/simclist.c:1416]: (style) The function 'list_dump_file' is never used.
+[src/simclist.c:1124]: (style) The function 'list_dump_getinfo_file' is never used.
+[src/simclist.c:703]: (style) The function 'list_empty' is never used.
+[src/simclist.c:402]: (style) The function 'list_fetch' is never used.
+[src/simclist.c:414]: (style) The function 'list_get_max' is never used.
+[src/simclist.c:418]: (style) The function 'list_get_min' is never used.
+[src/simclist.c:1527]: (style) The function 'list_hashcomputer_double' is never used.
+[src/simclist.c:1526]: (style) The function 'list_hashcomputer_float' is never used.
+[src/simclist.c:1517]: (style) The function 'list_hashcomputer_int16_t' is never used.
+[src/simclist.c:1518]: (style) The function 'list_hashcomputer_int32_t' is never used.
+[src/simclist.c:1519]: (style) The function 'list_hashcomputer_int64_t' is never used.
+[src/simclist.c:1516]: (style) The function 'list_hashcomputer_int8_t' is never used.
+[src/simclist.c:1529]: (style) The function 'list_hashcomputer_string' is never used.
+[src/simclist.c:1522]: (style) The function 'list_hashcomputer_uint16_t' is never used.
+[src/simclist.c:1523]: (style) The function 'list_hashcomputer_uint32_t' is never used.
+[src/simclist.c:1524]: (style) The function 'list_hashcomputer_uint64_t' is never used.
+[src/simclist.c:1521]: (style) The function 'list_hashcomputer_uint8_t' is never used.
+[src/simclist.c:1509]: (style) The function 'list_meter_double' is never used.
+[src/simclist.c:1508]: (style) The function 'list_meter_float' is never used.
+[src/simclist.c:1499]: (style) The function 'list_meter_int16_t' is never used.
+[src/simclist.c:1501]: (style) The function 'list_meter_int64_t' is never used.
+[src/simclist.c:1498]: (style) The function 'list_meter_int8_t' is never used.
+[src/simclist.c:1511]: (style) The function 'list_meter_string' is never used.
+[src/simclist.c:1504]: (style) The function 'list_meter_uint16_t' is never used.
+[src/simclist.c:1505]: (style) The function 'list_meter_uint32_t' is never used.
+[src/simclist.c:1506]: (style) The function 'list_meter_uint64_t' is never used.
+[src/simclist.c:1503]: (style) The function 'list_meter_uint8_t' is never used.
+[src/simclist.c:398]: (style) The function 'list_prepend' is never used.
+[src/simclist.c:1435]: (style) The function 'list_restore_file' is never used.
+[src/simclist.c:811]: (style) The function 'list_sort' is never used.
+[src/debug.c:104]: (style) The function 'log_msg' is never used.
+[src/strlcpy.c:35]: (style) The function 'strlcpy' is never used.
+(information) Cppcheck cannot find all the include files (use --check-config for details)
+
+----------------------------------COMMENT--------------------------------------------------
+Although most are style errors, there is 1 error that can lead to lost memory if reallocation fails.
+Then there are 4 warnings, 2 of which are false positives of sscanf() usage with '%s', but the string to be read is set to some maximum lenght.
+The other 2 are using alloca() which basically allocates memory on the stack, which "frees" itself at the end of the function.
