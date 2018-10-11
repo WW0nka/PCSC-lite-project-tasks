@@ -1,0 +1,2 @@
+$ cov-build --dir cov-int make
+Segmentation fault (core dumped)
