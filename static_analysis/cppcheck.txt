@@ -81,6 +81,7 @@
 (information) Cppcheck cannot find all the include files (use --check-config for details)
 
 ----------------------------------COMMENT--------------------------------------------------
-Although most are style errors, there is 1 error that can lead to lost memory if reallocation fails.
-Then there are 4 warnings, 2 of which are false positives of sscanf() usage with '%s', but the string to be read is set to some maximum lenght.
+Although most are style errors, there is 1 error that can lead to lost memory if reallocation fails and 1 more but it is also a false positive
+Then there are 5 warnings, 2 of which are false positives of sscanf() usage with '%s', but the string to be read is set to some maximum lenght.
 The other 2 are using alloca() which basically allocates memory on the stack, which "frees" itself at the end of the function.
+The last one is in the test files where %d format is used for uint32_t ...
