@@ -1,0 +1,1391 @@
+
+Compiler Errors:
+(please be aware that these errors will prevent OCLint from analyzing this source code)
+
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.h:46:3: unknown type name 'PUCHAR'
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.h:46:18: unknown type name 'DWORD'
+/home/st4lker/School/pa193/project/PCSC/src/dyn_generic.h:41:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/dyn_generic.h:42:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/dyn_generic.h:43:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:50:19: use of undeclared identifier 'MAX_READERNAME'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:55:3: unknown type name 'UCHAR'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:55:17: use of undeclared identifier 'MAX_ATR_SIZE'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:61:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:62:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:63:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:65:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:66:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:67:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:67:27: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.h:68:29: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/hotplug.h:54:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/hotplug.h:55:2: unknown type name 'ULONG'
+/home/st4lker/School/pa193/project/PCSC/src/hotplug.h:56:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:42:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:42:18: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:43:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:43:19: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:44:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:44:19: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:45:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:45:20: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:46:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:46:21: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:46:64: redefinition of parameter 'PUCHAR'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:18: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:52: redefinition of parameter 'DWORD'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:49:3: redefinition of parameter 'DWORD'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:50:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:50:19: unknown type name 'READER_CONTEXT'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:51:28: redefinition of parameter 'PUCHAR'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:52:2: unknown type name 'LONG'
+:0:0: too many errors emitted, stopping now
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.h:41:2: unknown type name 'DWORD'
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.h:41:60: redefinition of parameter 'UCHAR'
+/home/st4lker/School/pa193/project/PCSC/src/strlcpycat.h:39:1: unknown type name 'size_t'
+/home/st4lker/School/pa193/project/PCSC/src/strlcpycat.h:39:44: unknown type name 'size_t'
+/home/st4lker/School/pa193/project/PCSC/src/strlcpycat.h:43:1: unknown type name 'size_t'
+/home/st4lker/School/pa193/project/PCSC/src/strlcpycat.h:43:44: unknown type name 'size_t'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_msg.h:144:17: use of undeclared identifier 'MAX_READERNAME'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_msg.h:265:18: use of undeclared identifier 'MAX_BUFFER_SIZE'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_msg.h:282:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_msg.h:284:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_msg.h:287:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_msg.h:288:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:44:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:46:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:46:27: unknown type name 'uint32_t'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:47:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:47:23: unknown type name 'uint32_t'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:47:41: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:48:2: unknown type name 'LONG'
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.h:48:27: unknown type name 'uint32_t'
+
+Compiler Warnings:
+
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:44:37: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:44:44: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:44:62: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:45:48: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:46:39: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:46:47: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:46:64: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:47:3: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:36: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:43: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:52: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:48:59: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:49:3: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:49:10: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:50:37: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:51:3: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:51:11: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:51:28: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:51:36: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.h:51:44: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:129:17: implicit declaration of function 'ProcessEventsServer' is invalid in C99
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:715:8: implicit declaration of function 'ListenExistingSocket' is invalid in C99
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:718:8: implicit declaration of function 'InitializeSocket' is invalid in C99
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.h:41:29: declaration of 'struct ReaderContext' will not be visible outside of this function
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.h:41:46: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.h:41:53: type specifier missing, defaults to 'int'
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.h:41:60: type specifier missing, defaults to 'int'
+
+
+OCLint Report
+
+Summary: TotalFiles=40 FilesWithViolations=23 P1=0 P2=363 P3=927 
+
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:69:2: short variable name [naming|P3] Length of variable name `p` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:70:2: short variable name [naming|P3] Length of variable name `T` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:71:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:111:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:112:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:113:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:114:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:66:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 22 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:140:5: too few branches in switch statement [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:188:4: too few branches in switch statement [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:171:6: empty else block [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:66:1: high npath complexity [size|P2] NPath Complexity Number 2052 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:66:1: long method [size|P3] Method with 159 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/atrhandler.c:66:1: high ncss method [size|P2] Method of 63 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/debug.c:69:2: short variable name [naming|P3] Length of variable name `e` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/debug.c:88:4: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/debug.c:128:4: missing default in switch statements [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/debug.c:104:1: high ncss method [size|P2] Method of 31 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:211:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:212:2: short variable name [naming|P3] Length of variable name `c` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:268:4: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:242:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 11 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:267:1: long line [size|P3] Line with 112 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:115:1: long method [size|P3] Method with 72 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:133:1: long method [size|P3] Method with 72 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:170:4: missing default in switch statements [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:244:2: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:287:2: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:115:1: high ncss method [size|P2] Method of 44 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/debuglog.c:133:1: high ncss method [size|P2] Method of 44 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:377:8: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:76:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:85:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:147:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:155:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:230:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:238:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:241:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:85:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:105:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:160:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:222:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:246:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:245:1: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:269:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:350:7: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:377:12: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:241:3: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:244:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 25 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:64:1: high npath complexity [size|P2] NPath Complexity Number 15205 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:244:1: high npath complexity [size|P2] NPath Complexity Number 15205 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:64:1: long method [size|P3] Method with 265 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:158:1: long method [size|P3] Method with 60 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:244:1: long method [size|P3] Method with 265 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:61:1: long variable name [naming|P3] Length of variable name `ClientsWaitingForEvent` is 22, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:62:1: long variable name [naming|P3] Length of variable name `ClientsWaitingForEvent_lock` is 27, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:64:1: high ncss method [size|P2] Method of 119 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/eventhandler.c:244:1: high ncss method [size|P2] Method of 119 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:493:2: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:485:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:506:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:111:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:223:6: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:271:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:328:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:381:2: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:599:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:600:2: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:670:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:688:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:724:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:110:1: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:148:3: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:221:5: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:637:3: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:109:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 17 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:379:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 28 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:109:1: high npath complexity [size|P2] NPath Complexity Number 6920 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:379:1: high npath complexity [size|P2] NPath Complexity Number 2150400 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:109:1: long method [size|P3] Method with 156 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:268:12: long method [size|P3] Method with 54 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:379:1: long method [size|P3] Method with 178 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:596:1: long method [size|P3] Method with 66 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:721:1: long method [size|P3] Method with 55 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:71:1: long variable name [naming|P3] Length of variable name `Add_Interface_In_Name` is 21, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:643:9: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:109:1: high ncss method [size|P2] Method of 89 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:379:1: high ncss method [size|P2] Method of 89 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libudev.c:596:1: high ncss method [size|P2] Method of 34 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/hotplug_libusb.c:539:1: long line [size|P3] Line with 137 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:185:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:81:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:295:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:321:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:324:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:370:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:373:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:378:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:402:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:423:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:429:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:453:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:474:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:486:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:490:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:493:20: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:495:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:540:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:548:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:551:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:283:3: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:285:3: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:70:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:107:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:165:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:207:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:238:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:268:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:336:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:394:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:446:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:506:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:294:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:425:2: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:476:2: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:542:2: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:105:1: long method [size|P3] Method with 53 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:265:1: long method [size|P3] Method with 62 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:442:1: long method [size|P3] Method with 53 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:73:2: long variable name [naming|P3] Length of variable name `IFDH_set_protocol_parameters` is 28, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:111:2: long variable name [naming|P3] Length of variable name `IFDH_create_channel_by_name` is 27, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:210:2: long variable name [naming|P3] Length of variable name `IFDH_set_capabilities` is 21, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:241:2: long variable name [naming|P3] Length of variable name `IFDH_get_capabilities` is 21, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/ifdwrapper.c:135:7: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/parser.h:49:31: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/parser.h:50:39: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/parser.h:51:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:190:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:253:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:109:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:183:3: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:259:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:268:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:532:3: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:671:3: short variable name [naming|P3] Length of variable name `f` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:678:4: short variable name [naming|P3] Length of variable name `rr` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:765:3: short variable name [naming|P3] Length of variable name `rr` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:792:3: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:809:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:827:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:446:2: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:582:3: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:257:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 61 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:864:1: long line [size|P3] Line with 134 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:865:1: long line [size|P3] Line with 128 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:106:1: long method [size|P3] Method with 62 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:177:1: long method [size|P3] Method with 77 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:257:1: long method [size|P3] Method with 524 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:87:1: long variable name [naming|P3] Length of variable name `Add_Interface_In_Name` is 21, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:264:2: long variable name [naming|P3] Length of variable name `customMaxThreadCounter` is 22, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:265:2: long variable name [naming|P3] Length of variable name `customMaxReaderHandles` is 22, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:266:2: long variable name [naming|P3] Length of variable name `customMaxThreadCardHandles` is 26, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:605:2: long variable name [naming|P3] Length of variable name `signal_handler_thread` is 21, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:473:7: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:675:7: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:177:1: high ncss method [size|P2] Method of 33 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/pcscdaemon.c:257:1: high ncss method [size|P2] Method of 242 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:14:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 157 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:143:1: long line [size|P3] Line with 103 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:171:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:175:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:179:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:263:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:275:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:351:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:359:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:13:1: long method [size|P3] Method with 353 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:14:1: long method [size|P3] Method with 353 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:19:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:21:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:24:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:26:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:28:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:32:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:34:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:36:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:38:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:40:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:42:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:44:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:46:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:48:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:50:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:52:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:54:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:56:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:58:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:60:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:62:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:64:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:66:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:68:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:70:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:75:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:77:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:79:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:81:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:83:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:85:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:87:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:91:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:93:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:95:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:99:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:101:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:103:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:105:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:107:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:109:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:111:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:115:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:117:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:119:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:121:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:123:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:127:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:129:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:131:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:133:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:135:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:137:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:139:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:141:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:143:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:145:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:147:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:149:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:151:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:153:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:155:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:159:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:161:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:163:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:165:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:167:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:169:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:171:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:173:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:175:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:177:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:179:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:181:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:183:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:187:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:189:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:191:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:193:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:195:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:197:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:199:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:203:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:205:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:207:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:209:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:211:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:215:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:217:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:219:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:221:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:223:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:225:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:227:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:231:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:233:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:235:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:237:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:239:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:243:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:245:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:247:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:249:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:251:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:255:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:257:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:259:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:261:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:263:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:265:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:267:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:269:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:271:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:273:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:275:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:277:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:279:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:281:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:283:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:285:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:287:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:291:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:293:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:295:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:297:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:299:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:301:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:303:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:305:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:307:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:309:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:311:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:313:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:315:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:319:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:321:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:323:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:325:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:327:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:329:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:331:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:333:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:335:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:339:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:341:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:343:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:345:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:347:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:349:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:351:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:353:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:355:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:357:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:359:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:361:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:363:9: constant if expression [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:13:1: high ncss method [size|P2] Method of 158 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-dist.c:14:1: high ncss method [size|P2] Method of 158 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-gen.c:105:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 31 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-gen.c:143:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 352 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-gen.c:105:1: high npath complexity [size|P2] NPath Complexity Number 1073741824 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-gen.c:143:1: long method [size|P3] Method with 106 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-gen.c:105:1: high ncss method [size|P2] Method of 91 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/pcsc-wirecheck-gen.c:143:1: high ncss method [size|P2] Method of 865 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:64:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:72:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:98:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:101:7: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:60:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 13 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:60:1: long method [size|P3] Method with 73 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/prothandler.c:60:1: high ncss method [size|P2] Method of 32 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:709:4: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:815:3: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1403:4: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1197:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1205:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1236:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:108:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:114:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:120:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:129:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:172:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:248:13: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:267:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:274:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:294:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:303:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:417:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:421:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:449:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:495:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:504:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:575:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:588:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:615:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:628:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:687:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:811:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:824:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:829:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:851:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:856:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:866:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:895:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:920:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:921:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:922:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:923:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:924:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:925:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:926:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:927:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:929:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:952:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:953:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:954:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:955:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:956:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:957:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:958:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:959:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:961:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:962:3: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:968:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:971:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:979:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:993:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:999:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1001:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1115:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1117:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1120:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1185:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1228:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1298:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1331:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1338:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1344:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1346:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:927:3: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:959:3: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:86:34: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:134:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:166:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:167:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:167:2: short variable name [naming|P3] Length of variable name `j` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:581:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:698:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:808:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:821:5: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:834:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:848:5: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:874:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:875:2: short variable name [naming|P3] Length of variable name `f` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:920:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:921:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:922:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:923:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:924:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:925:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:926:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:927:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:929:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:952:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:953:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:954:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:955:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:956:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:957:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:958:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:959:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:961:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:962:3: short variable name [naming|P3] Length of variable name `f1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1006:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1022:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1055:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1071:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1185:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1228:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1288:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1351:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1358:4: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1395:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1426:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1426:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1439:3: short variable name [naming|P3] Length of variable name `j` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1466:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1477:3: short variable name [naming|P3] Length of variable name `j` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1499:3: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:692:1: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1464:1: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:231:4: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:709:4: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:838:3: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1103:2: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1356:3: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1508:4: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:733:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1343:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1001:3: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1117:4: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1346:3: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:161:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 46 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:690:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 17 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:872:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 24 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1463:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 14 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:690:1: high npath complexity [size|P2] NPath Complexity Number 1071 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:872:1: high npath complexity [size|P2] NPath Complexity Number 4611 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1463:1: high npath complexity [size|P2] NPath Complexity Number 1856 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:84:1: long method [size|P3] Method with 70 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:161:1: long method [size|P3] Method with 414 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:618:1: long method [size|P3] Method with 70 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:690:1: long method [size|P3] Method with 113 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:872:1: long method [size|P3] Method with 100 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1069:1: long method [size|P3] Method with 52 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1463:1: long method [size|P3] Method with 91 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:132:28: long variable name [naming|P3] Length of variable name `customMaxReaderHandles` is 22, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1301:2: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:84:1: high ncss method [size|P2] Method of 43 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:161:1: high ncss method [size|P2] Method of 180 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:618:1: high ncss method [size|P2] Method of 43 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:690:1: high ncss method [size|P2] Method of 42 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:872:1: high ncss method [size|P2] Method of 132 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.c:1463:1: high ncss method [size|P2] Method of 41 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.h:146:1: long line [size|P3] Line with 172 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/readerfactory.h:147:1: long line [size|P3] Line with 124 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:411:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:429:16: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:477:52: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:481:16: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:704:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:733:41: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:736:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:742:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:746:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1002:34: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1013:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:194:27: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:197:40: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:208:33: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:212:44: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:216:30: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:218:49: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:264:15: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:308:19: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:309:5: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:320:33: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:340:32: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:350:28: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:359:26: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:370:35: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:378:32: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:386:34: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:394:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:398:18: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:402:18: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:406:19: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:414:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:418:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:424:30: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:426:5: short variable name [naming|P3] Length of variable name `s` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:441:49: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:443:5: short variable name [naming|P3] Length of variable name `x` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:444:5: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:473:23: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:494:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:554:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:555:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:570:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:588:23: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:590:5: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:651:16: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:652:5: short variable name [naming|P3] Length of variable name `s` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:699:24: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:703:16: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:707:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:708:5: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:730:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:745:19: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:749:17: short variable name [naming|P3] Length of variable name `l1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:749:35: short variable name [naming|P3] Length of variable name `l2` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:750:5: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:811:15: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:843:44: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:864:33: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:868:5: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:989:25: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:999:26: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1011:27: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1016:24: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1023:15: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1024:5: short variable name [naming|P3] Length of variable name `x` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1060:38: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1125:5: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:30: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:56: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1137:5: short variable name [naming|P3] Length of variable name `x` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:33: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:53: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1416:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1417:5: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1435:23: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1436:5: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1449:27: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1493:28: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1493:43: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1511:26: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1529:38: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1530:5: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:86: deep nested block [size|P3] Block depth of 7 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1197:24: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:83: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1046:12: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:441:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 13 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:494:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 12 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:588:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 15 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:651:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 13 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:749:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 20 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:864:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 24 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1060:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 23 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 47 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 47 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:458:81: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:461:84: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:464:84: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:467:88: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:607:74: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:610:74: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:894:72: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:896:83: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:904:114: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:906:118: empty for statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:91:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:92:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:95:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:96:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:97:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:98:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:99:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:174:1: long line [size|P3] Line with 129 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:187:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:290:1: long line [size|P3] Line with 107 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:663:1: long line [size|P3] Line with 127 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:678:1: long line [size|P3] Line with 127 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:812:1: long line [size|P3] Line with 109 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:854:1: long line [size|P3] Line with 110 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:904:1: long line [size|P3] Line with 114 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:906:1: long line [size|P3] Line with 118 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:958:1: long line [size|P3] Line with 130 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:978:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:985:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1033:1: long line [size|P3] Line with 102 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1266:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1267:1: long line [size|P3] Line with 109 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1268:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1270:1: long line [size|P3] Line with 111 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1271:1: long line [size|P3] Line with 105 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1272:1: long line [size|P3] Line with 129 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1273:1: long line [size|P3] Line with 115 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1478:1: long line [size|P3] Line with 167 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1493:1: long line [size|P3] Line with 109 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1496:1: long line [size|P3] Line with 140 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1514:1: long line [size|P3] Line with 130 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1553:1: long line [size|P3] Line with 127 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1555:1: long line [size|P3] Line with 142 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1564:1: long line [size|P3] Line with 107 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:208:1: high npath complexity [size|P2] NPath Complexity Number 76800 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:218:1: high npath complexity [size|P2] NPath Complexity Number 216 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:441:1: high npath complexity [size|P2] NPath Complexity Number 216 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:494:1: high npath complexity [size|P2] NPath Complexity Number 270 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:588:1: high npath complexity [size|P2] NPath Complexity Number 480 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:749:1: high npath complexity [size|P2] NPath Complexity Number 7560 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:864:1: high npath complexity [size|P2] NPath Complexity Number 76800 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1060:1: high npath complexity [size|P2] NPath Complexity Number 314928 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:1: high npath complexity [size|P2] NPath Complexity Number 27634932 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:1: high npath complexity [size|P2] NPath Complexity Number 27398736 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:208:1: long method [size|P3] Method with 122 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:494:1: long method [size|P3] Method with 59 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:588:1: long method [size|P3] Method with 62 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:749:1: long method [size|P3] Method with 61 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:864:1: long method [size|P3] Method with 122 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1060:1: long method [size|P3] Method with 63 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:1: long method [size|P3] Method with 147 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:1: long method [size|P3] Method with 131 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:411:13: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:452:9: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:714:9: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1179:9: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1200:13: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1208:21: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1237:21: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1334:13: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1358:13: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:208:1: high ncss method [size|P2] Method of 59 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:494:1: high ncss method [size|P2] Method of 42 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:588:1: high ncss method [size|P2] Method of 45 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:651:1: high ncss method [size|P2] Method of 31 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:749:1: high ncss method [size|P2] Method of 47 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:864:1: high ncss method [size|P2] Method of 59 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1060:1: high ncss method [size|P2] Method of 63 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1136:1: high ncss method [size|P2] Method of 120 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.c:1284:1: high ncss method [size|P2] Method of 121 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:80:35: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:80:50: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:93:31: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:104:33: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:115:46: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:135:37: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:212:15: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:223:19: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:237:32: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:251:28: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:283:26: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:303:35: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:324:32: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:346:34: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:358:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:370:18: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:380:18: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:389:19: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:403:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:417:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:426:23: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:436:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:453:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:462:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:472:23: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:485:16: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:493:24: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:503:16: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:522:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:537:17: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:558:19: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:577:17: short variable name [naming|P3] Length of variable name `l1` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:577:35: short variable name [naming|P3] Length of variable name `l2` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:594:15: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:606:25: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:614:26: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:622:27: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:630:24: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:640:15: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:658:38: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:709:30: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:709:56: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:732:20: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:752:33: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:752:53: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:770:23: short variable name [naming|P3] Length of variable name `l` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:779:28: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:779:43: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:785:29: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:785:44: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:791:29: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:791:44: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:797:29: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:797:44: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:803:29: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:803:44: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:809:30: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:809:45: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:815:30: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:815:45: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:821:30: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:821:45: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:827:27: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:827:42: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:833:28: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:833:43: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:839:28: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:839:43: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:846:26: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:852:27: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:858:27: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:864:27: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:870:27: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:876:28: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:882:28: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:888:28: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:894:25: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:900:26: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:906:26: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:913:38: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:919:39: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:925:39: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:931:39: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:937:39: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:943:40: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:949:40: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:955:40: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:961:37: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:967:38: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:973:38: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:128:1: long line [size|P3] Line with 143 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:148:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:149:1: long line [size|P3] Line with 114 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:150:1: long line [size|P3] Line with 111 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:80:35: unused method parameter [unused|P3] The parameter 'a' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:80:50: unused method parameter [unused|P3] The parameter 'b' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:93:31: unused method parameter [unused|P3] The parameter 'el' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:93:47: unused method parameter [unused|P3] The parameter 'indicator' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:104:33: unused method parameter [unused|P3] The parameter 'el' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:115:46: unused method parameter [unused|P3] The parameter 'el' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:135:37: unused method parameter [unused|P3] The parameter 'el' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:135:62: unused method parameter [unused|P3] The parameter 'serializ_len' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:152:39: unused method parameter [unused|P3] The parameter 'data' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/simclist.h:152:66: unused method parameter [unused|P3] The parameter 'data_len' is unused.
+/home/st4lker/School/pa193/project/PCSC/src/strlcpy.c:37:2: short variable name [naming|P3] Length of variable name `d` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/strlcpy.c:38:2: short variable name [naming|P3] Length of variable name `s` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/strlcpy.c:39:2: short variable name [naming|P3] Length of variable name `n` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/strlcpy.c:54:4: empty while statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:235:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:59:21: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:99:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:100:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:101:2: short variable name [naming|P3] Length of variable name `p` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:209:4: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:393:4: short variable name [naming|P3] Length of variable name `M` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:394:4: short variable name [naming|P3] Length of variable name `m` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:395:4: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:232:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:76:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 32 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:76:1: high npath complexity [size|P2] NPath Complexity Number 104509440 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:76:1: long method [size|P3] Method with 417 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:61:6: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:151:31: empty while statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:202:32: empty while statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/testpcsc.c:76:1: high ncss method [size|P2] Method of 231 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:164:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:169:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:178:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:55:2: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:65:3: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:136:19: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:136:38: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:138:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/utils.c:162:3: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/utils.h:47:19: short variable name [naming|P3] Length of variable name `a` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/utils.h:47:38: short variable name [naming|P3] Length of variable name `b` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1235:2: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1336:2: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1546:2: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1555:2: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1557:3: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:273:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:288:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:314:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:347:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:394:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:401:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:416:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:477:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:509:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:567:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:574:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:626:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:633:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:645:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:652:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:694:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:701:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:716:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:770:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:811:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:875:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:880:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1069:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1076:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1121:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1132:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1277:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1282:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1296:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1303:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1334:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1340:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1348:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1389:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1396:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1403:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1464:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1471:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1478:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1527:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1534:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1541:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1551:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1562:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1627:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1637:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:205:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:217:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:231:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:251:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:256:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:535:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:543:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:548:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:555:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:838:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:844:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1057:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1103:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1109:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1265:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1322:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1377:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1452:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1509:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1515:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:755:3: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:777:3: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:794:3: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:982:2: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1223:2: empty if statement [empty|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:384:6: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:684:6: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:238:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:529:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:834:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1053:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1095:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1252:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1315:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1373:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1448:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1500:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1586:3: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:246:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:310:7: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:342:7: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:362:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:383:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:413:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:550:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:642:8: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:648:8: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:662:6: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:683:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:713:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1415:8: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1548:7: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:234:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 36 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:525:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 44 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:832:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 32 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1093:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 23 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1370:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 12 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1495:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 20 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:234:1: high npath complexity [size|P2] NPath Complexity Number 4313088 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:525:1: high npath complexity [size|P2] NPath Complexity Number 8257536 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:832:1: high npath complexity [size|P2] NPath Complexity Number 159600 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1093:1: high npath complexity [size|P2] NPath Complexity Number 6240 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1370:1: high npath complexity [size|P2] NPath Complexity Number 224 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1495:1: high npath complexity [size|P2] NPath Complexity Number 55296 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:234:1: long method [size|P3] Method with 287 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:525:1: long method [size|P3] Method with 303 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:832:1: long method [size|P3] Method with 217 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1093:1: long method [size|P3] Method with 153 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1248:1: long method [size|P3] Method with 59 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1311:1: long method [size|P3] Method with 55 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1370:1: long method [size|P3] Method with 72 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1495:1: long method [size|P3] Method with 151 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:424:6: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:730:6: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:776:7: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:793:7: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:873:7: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:426:3: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:732:3: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1406:2: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:234:1: high ncss method [size|P2] Method of 120 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:525:1: high ncss method [size|P2] Method of 130 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:832:1: high ncss method [size|P2] Method of 98 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1093:1: high ncss method [size|P2] Method of 68 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1370:1: high ncss method [size|P2] Method of 41 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard.c:1495:1: high ncss method [size|P2] Method of 67 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1759:3: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2114:4: collapsible if statements [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:487:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:646:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:696:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:707:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:716:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:841:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:850:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:983:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:992:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1000:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1063:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1074:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1083:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1263:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1272:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1437:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1450:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1461:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1470:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1478:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1486:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1508:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1514:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1536:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1542:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1698:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1720:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1727:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1737:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1743:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1765:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2090:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2096:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2102:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2122:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2232:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2246:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2253:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2262:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2271:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2414:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2427:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2523:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2543:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2552:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2678:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2703:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2710:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2719:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2728:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2743:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2850:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2863:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2871:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2877:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2889:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2894:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3029:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3035:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3046:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3115:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3123:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3130:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3140:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3148:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3241:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3251:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3260:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:538:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:559:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:569:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:585:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:606:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:806:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:811:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:817:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:824:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:959:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:970:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1158:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1252:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1432:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1682:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1705:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2225:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2420:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2494:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2518:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2657:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2671:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2824:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2835:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2844:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2936:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2944:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3007:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3022:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3097:12: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3228:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3263:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3270:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3395:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3407:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3410:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3488:11: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3515:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3518:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3535:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1411:3: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1414:3: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1784:3: parameter reassignment [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:291:31: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:331:31: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:479:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:531:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:681:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:795:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:950:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1047:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1137:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1237:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1390:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1391:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1395:2: short variable name [naming|P3] Length of variable name `r` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1679:2: short variable name [naming|P3] Length of variable name `j` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1682:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1749:3: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1799:4: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1815:6: short variable name [naming|P3] Length of variable name `k` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2206:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2507:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2648:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2822:2: short variable name [naming|P3] Length of variable name `i` is 1, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2824:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2936:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3007:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3097:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3186:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3418:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3442:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3504:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3524:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3541:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3557:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1674:1: deep nested block [size|P3] Block depth of 7 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1792:2: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2048:3: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1714:8: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1796:7: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1834:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1851:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1866:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1886:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1890:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1901:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1911:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1926:9: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1939:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1947:14: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1957:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1964:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1967:11: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1977:11: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1991:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2001:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2005:11: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2018:10: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2024:15: bitwise operator in conditional [basic|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:540:3: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:808:3: unnecessary else statement [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:527:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 14 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1385:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 30 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1672:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 66 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2202:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 11 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2643:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 17 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2818:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 15 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:466:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:524:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:669:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:766:1: long line [size|P3] Line with 111 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:767:1: long line [size|P3] Line with 118 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:771:1: long line [size|P3] Line with 109 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:772:1: long line [size|P3] Line with 103 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:775:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:910:1: long line [size|P3] Line with 118 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:915:1: long line [size|P3] Line with 103 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:917:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1031:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1117:1: long line [size|P3] Line with 103 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1118:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1216:1: long line [size|P3] Line with 103 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1217:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1341:1: long line [size|P3] Line with 137 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1343:1: long line [size|P3] Line with 110 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1347:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1637:1: long line [size|P3] Line with 115 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2163:1: long line [size|P3] Line with 102 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2173:1: long line [size|P3] Line with 182 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2175:1: long line [size|P3] Line with 181 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2181:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2183:1: long line [size|P3] Line with 102 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2352:1: long line [size|P3] Line with 126 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2356:1: long line [size|P3] Line with 130 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2359:1: long line [size|P3] Line with 177 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2361:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2366:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2467:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2471:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2608:1: long line [size|P3] Line with 113 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2614:1: long line [size|P3] Line with 177 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2616:1: long line [size|P3] Line with 149 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2620:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2622:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2623:1: long line [size|P3] Line with 102 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2624:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2778:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2974:1: long line [size|P3] Line with 104 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2976:1: long line [size|P3] Line with 136 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3075:1: long line [size|P3] Line with 106 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3329:1: long line [size|P3] Line with 101 characters exceeds limit of 100
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:438:1: high npath complexity [size|P2] NPath Complexity Number 4608 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:527:1: high npath complexity [size|P2] NPath Complexity Number 4608 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1385:1: high npath complexity [size|P2] NPath Complexity Number 20736000 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1672:1: high npath complexity [size|P2] NPath Complexity Number 560472064 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2202:1: high npath complexity [size|P2] NPath Complexity Number 576 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2643:1: high npath complexity [size|P2] NPath Complexity Number 7200 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2818:1: high npath complexity [size|P2] NPath Complexity Number 3584 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:387:1: long method [size|P3] Method with 78 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:438:1: long method [size|P3] Method with 127 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:527:1: long method [size|P3] Method with 127 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:679:1: long method [size|P3] Method with 55 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:791:1: long method [size|P3] Method with 79 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:946:1: long method [size|P3] Method with 64 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1045:1: long method [size|P3] Method with 52 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1134:1: long method [size|P3] Method with 60 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1235:1: long method [size|P3] Method with 53 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1385:1: long method [size|P3] Method with 176 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1672:1: long method [size|P3] Method with 477 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2202:1: long method [size|P3] Method with 82 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2504:1: long method [size|P3] Method with 78 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2643:1: long method [size|P3] Method with 108 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2818:1: long method [size|P3] Method with 100 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3004:1: long method [size|P3] Method with 56 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3094:1: long method [size|P3] Method with 65 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:387:1: high ncss method [size|P2] Method of 40 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:438:1: high ncss method [size|P2] Method of 57 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:527:1: high ncss method [size|P2] Method of 57 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:791:1: high ncss method [size|P2] Method of 38 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1385:1: high ncss method [size|P2] Method of 91 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:1672:1: high ncss method [size|P2] Method of 226 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2202:1: high ncss method [size|P2] Method of 37 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2504:1: high ncss method [size|P2] Method of 40 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2643:1: high ncss method [size|P2] Method of 50 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:2818:1: high ncss method [size|P2] Method of 47 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_clnt.c:3094:1: high ncss method [size|P2] Method of 31 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:185:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:193:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:204:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:222:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:233:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:247:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:336:3: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:356:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:371:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:449:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:467:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:484:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:493:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:520:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:523:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:538:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:541:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:556:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:559:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:571:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:574:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:588:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:621:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:624:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:643:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:646:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:651:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:658:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:698:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:701:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:707:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:715:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:746:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:749:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:753:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:770:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:773:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:777:6: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:788:5: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:796:4: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:802:2: goto statement [basic|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:177:16: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:843:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:854:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:858:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:939:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:945:16: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:950:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:1003:10: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:1006:9: useless parentheses [redundant|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:102:40: short variable name [naming|P3] Length of variable name `el` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:173:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:601:6: short variable name [naming|P3] Length of variable name `fd` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:602:6: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:811:40: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:848:2: short variable name [naming|P3] Length of variable name `rv` is 2, which is shorter than the threshold of 3
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:329:1: deep nested block [size|P3] Block depth of 6 exceeds limit of 5
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:953:2: prefer early exits and continue [convention|P3] Use early exit/continue to simplify code and reduce indentation
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:171:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 11 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:328:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 112 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:846:1: high cyclomatic complexity [size|P2] Cyclomatic Complexity Number 11 exceeds limit of 10
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:98:1: high npath complexity [size|P2] NPath Complexity Number 31346 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:171:1: high npath complexity [size|P2] NPath Complexity Number 576 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:328:1: high npath complexity [size|P2] NPath Complexity Number 31346 exceeds limit of 200
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:93:1: long method [size|P3] Method with 94 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:98:1: long method [size|P3] Method with 481 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:171:1: long method [size|P3] Method with 96 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:328:1: long method [size|P3] Method with 481 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:846:1: long method [size|P3] Method with 94 lines exceeds limit of 50
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:75:1: long variable name [naming|P3] Length of variable name `contextMaxThreadCounter` is 23, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:76:1: long variable name [naming|P3] Length of variable name `contextMaxCardHandles` is 21, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:118:25: long variable name [naming|P3] Length of variable name `customMaxThreadCounter` is 22, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:119:2: long variable name [naming|P3] Length of variable name `customMaxThreadCardHandles` is 26, which is longer than the threshold of 20
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:895:8: inverted logic [convention|P3] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:364:3: missing break in switch statement [convention|P2] 
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:93:1: high ncss method [size|P2] Method of 43 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:98:1: high ncss method [size|P2] Method of 379 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:171:1: high ncss method [size|P2] Method of 51 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:328:1: high ncss method [size|P2] Method of 379 non-commenting source statements exceeds limit of 30
+/home/st4lker/School/pa193/project/PCSC/src/winscard_svc.c:846:1: high ncss method [size|P2] Method of 43 non-commenting source statements exceeds limit of 30
+
+[OCLint (http://oclint.org) v0.13.1]

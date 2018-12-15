@@ -1,0 +1,35 @@
+AdLint - not used, old for ANSI C89 / ISO C90 and partly ISO C99.
+Astree - NOT FREE. There is a trial for 30 days after you email/fax them a license agreement, set a date and time for a Web-based training via cisco webex and a regular phone call that takes (I presume) painful 90 minutes. ***DROP MIC***
+Axivion Bauhaus Suite – We have not found any package that we can download as this software.
+BLAST – not used, maybe later, analyzing only one .c file, getting parse errors
+Cppcheck – Open-source tool that checks for several types of errors, including use of STL. ***DONE***
+cpplint – Cpplint is just style guide checker, there are planty of style errors or warnings resolved against  Google's coding style guides.
+Clang – found 3 bugs.
+Coccinelle – An open-source source code pattern matching and transformation. *** THIS IS `sed` ON STEROIDS, NOT AN ANALYZER ***
+Coverity – We tried to use coverity, but on one system, it exits with Segmentation fault (core dumped) and on then it gets Last Build Status: Failed
+Cppdepend – not used, based on clang, looks good but commercial, unable to start trial version (free for one month).
+ECLAIR – COMMERCIAL :( *** "DONE" ***
+Eclipse (software) – Eclipse was not able to find corrent errors, because it does not find some required files and therefore it does not understand to context and printed hundreds of errors.
+Flawfinder – used.
+Fluctuat – Abstract interpreter for the validation of numerical properties of programs. *** An academic version of Fluctuat is available upon request. :( DONE***
+Frama-C – Was not build, because of we were not able to install ocamlgraph.
+Goanna – not used, nowadays available as plug-in for eclipse and VS.
+GrammaTech CodeSonar – A static program analysis tool for C/C++, see above. *** COMMERCIAL, DONE ***
+IKOS – Could not install because of LLVM was not found.
+Iinfer – not used, unable to install, maybe problem with opam dependencies.
+Klocwork Static Code Analysis – A static analysis tool for C/C++. *** COMMERCIAL, DONE ***
+Lint – Lint tool is too old (40 years old) and there is evolved version Splint for linux. We used Splint therefore.
+LDRA Testbed – not used, commercial.
+OCLint – Clang based, only runs on Linux and Mac OS X. *** DONE ***
+Parasoft C/C++test – Registration as a company employee needed for trying this tool.
+PC-Lint – not used, commercial.
+Polyspace – Uses abstract interpretation to detect and prove the absence of run time errors etc. *** COMMERCIAL , DONE ***
+PRQA QA·C and QA·C++ – Helix QAC tools require a license key for use.
+SLAM project – not used, commercial.
+Sparse – An open-source tool designed to find faults in the Linux kernel. *** THIS CANT OPEN FILES ????, DONE***
+Splint – Planty of false positives, for example comparison of signed and unsinged intergers.
+Visual Studio – An IDE that provides static code analysis for C/C++ both in the editor environment and from the compiler command line.
+
+Martin 3k + 1, Denis 3k + 2, Peto 3k
+
+Source: https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C,_C++

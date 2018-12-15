@@ -1,0 +1,28 @@
+I was not able to install ocamlgraph.
+
+configure: ******************
+configure: * CONFIGURE MAKE *
+configure: ******************
+checking for make... make
+checking version of make... 4.1
+configure: *****************************
+configure: * CONFIGURE OCAML COMPILERS *
+configure: *****************************
+checking for ocamlc... ocamlc
+checking version of OCaml... 4.02.3
+checking OCaml library path... /usr/lib/ocaml
+checking for ocamlopt... ocamlopt
+checking ocamlopt version and standard library... ok
+native dynlink works fine. Great.
+checking for ocamlfind... ocamlfind
+configure: Distribution mode: all warnings are deactivated
+configure: *******************************************
+configure: * CONFIGURE MANDATORY TOOLS AND LIBRARIES *
+configure: *******************************************
+checking for ocamldep... ocamldep
+checking for ocamllex... ocamllex
+checking for ocamllex.opt... no
+checking for ocamlyacc... ocamlyacc
+checking for ocamlcp... ocamlcp
+checking for ocamlgraph... ocamlfind: Package `ocamlgraph' not found
+configure: error: Cannot find ocamlgraph via ocamlfind (requires ocamlgraph 1.8.5 or higher).
