@@ -8,6 +8,6 @@ https://github.com/LudovicRousseau/PCSC
 
 Forked repository:
 
-https://github.com/psekan/PCSC
+https://github.com/vegaMato/PCSC
 
 
