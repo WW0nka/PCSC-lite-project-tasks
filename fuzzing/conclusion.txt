@@ -1,1 +1,3 @@
-Will be updated till 21.12.2018.
+AFL was run two times, in both cases for 6 days. As we are analyzing daemon, we used Vicc. There wasn't found any bug in target daemon (maybe one in Vicc).
+
+Please upload results from AFL.
