@@ -1,1 +1,8 @@
-Will be updated till 21.12.2018.
+We tried to run clang's:
+
+- AdressSanitizer
+- MemorySanitizer
+- UndefinedBehaviorSanitizer
+- DataFlowSanitizer
+
+We used clang 3.5 version and after the make process, some of the required symbolic links to libs directories were missing, so they were added manually. When we started the daemon nothing happens, it seems like it is in the infinite loop at the beginning of the startup. This will be further investigated after the exams (~end of January); also couple of errors related to dependencies appeard. 
