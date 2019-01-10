@@ -1,3 +1,3 @@
-AFL was run several times, in all cases for 6 days. This folder contains requirements and steps needed to set up AFL.
+AFL was run several times, in all cases for 6 days. This folder contains requirements and steps needed to set up AFL. To run AFL execute run.sh script.
 
 We covered ~2/3 SCard functions, no bugs found.
