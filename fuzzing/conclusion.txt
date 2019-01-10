@@ -1,3 +1,3 @@
-AFL was run two times, in both cases for 6 days. As we are analyzing daemon, we used Vicc. There wasn't found any bug in target daemon (maybe one in Vicc).
+AFL was run several times, in all cases for 6 days. This folder contains requirements and steps needed to set up AFL.
 
-Please upload results from AFL.
+We covered ~2/3 SCard functions, no bugs found.
