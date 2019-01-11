@@ -1,3 +1,7 @@
-AFL was run several times, in all cases for 6 days. This folder contains requirements and steps needed to set up AFL. To run AFL execute run.sh script.
+AFL was run several times, in all cases for 6 days. This folder contains required sources and scripts needed to set up AFL.
+
+To run AFL execute run.sh script. 
+
+For more information how to compile or run project please see compile.sh and run.sh script. File main.c may be seen as an adapter between AFL and target daemon, which provides inputs from AFL to the daemon.
 
 We covered ~2/3 SCard functions, no bugs found.
